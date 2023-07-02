@@ -9,7 +9,7 @@
     - Application bundles will be tiny.
     - Built-in scoped styling, state management, motion primitives.
 
-![app snapshot](https://github.com/ej038b8vhu/sc-svelte-app/blob/main/app.png)
+![app snapshot](https://github.com/ej038b8vhu/sc-svelte-app/blob/master/app.png)
 
 
 ---
